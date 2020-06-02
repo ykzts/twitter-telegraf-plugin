@@ -337,8 +337,8 @@ github.com/influxdata/go-syslog/v2 v2.0.1 h1:l44S4l4Q8MhGQcoOxJpbo+QQYxJqp0vdgIV
 github.com/influxdata/go-syslog/v2 v2.0.1/go.mod h1:hjvie1UTaD5E1fTnDmxaCw8RRDrT4Ve+XHr5O2dKSCo=
 github.com/influxdata/tail v1.0.1-0.20180327235535-c43482518d41 h1:HxQo1NpNXQDpvEBzthbQLmePvTLFTa5GzSFUjL03aEs=
 github.com/influxdata/tail v1.0.1-0.20180327235535-c43482518d41/go.mod h1:xTFF2SILpIYc5N+Srb0d5qpx7d+f733nBrbasb13DtQ=
-github.com/influxdata/telegraf v0.10.2-0.20200527214326-d7bb4a931b84 h1:t6Bud4/PrC40+iPF49ogkYfHWx60b0AE5cBPDTVY79M=
-github.com/influxdata/telegraf v0.10.2-0.20200527214326-d7bb4a931b84/go.mod h1:SNwUFYIBnViqdaovZhFRxIBw7oi2jXIBFZuYzPMgE6Y=
+github.com/influxdata/telegraf v0.10.2-0.20200602132957-1e7f714b2b70 h1:YPZ6rQyJYxqr35HwhHNtzBml7syDxHIVQSFUqsOwfi0=
+github.com/influxdata/telegraf v0.10.2-0.20200602132957-1e7f714b2b70/go.mod h1:SNwUFYIBnViqdaovZhFRxIBw7oi2jXIBFZuYzPMgE6Y=
 github.com/influxdata/toml v0.0.0-20190415235208-270119a8ce65 h1:vvyMtD5LTJc1W9sQKjDkAWdcg0478CszSdzlHtiAXCY=
 github.com/influxdata/toml v0.0.0-20190415235208-270119a8ce65/go.mod h1:zApaNFpP/bTpQItGZNNUMISDMDAnTXu9UqJ4yT3ocz8=
 github.com/influxdata/wlog v0.0.0-20160411224016-7c63b0a71ef8 h1:W2IgzRCb0L9VzMujq/QuTaZUKcH8096jWwP519mHN6Q=
