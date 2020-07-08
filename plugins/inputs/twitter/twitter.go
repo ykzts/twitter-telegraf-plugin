@@ -58,7 +58,7 @@ func (t *Twitter) createTwitterClient() *anaconda.TwitterApi {
 	return twitterClient
 }
 
-// Gather GitHub Metrics
+// Gather Twitter Metrics
 func (t *Twitter) Gather(acc telegraf.Accumulator) error {
 	if t.twitterClient == nil {
 		t.twitterClient = t.createTwitterClient()

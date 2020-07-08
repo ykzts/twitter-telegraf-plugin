@@ -7,7 +7,7 @@ import (
 	"time"
 
 	_ "github.com/inabagumi/twitter-telegraf-plugin/plugins/inputs/twitter"
-	"github.com/influxdata/telegraf/plugins/inputs/execd/shim"
+	"github.com/influxdata/telegraf/plugins/common/shim"
 )
 
 var pollInterval = flag.Duration("poll_interval", 10*time.Second, "how often to send metrics")
