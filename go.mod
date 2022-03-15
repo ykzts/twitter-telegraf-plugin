@@ -10,6 +10,6 @@ require (
 	github.com/dustin/gojson v0.0.0-20160307161227-2e71ec9dd5ad // indirect
 	github.com/garyburd/go-oauth v0.0.0-20180319155456-bca2e7f09a17 // indirect
 	github.com/influxdata/telegraf v1.21.4
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	github.com/tedsuo/ifrit v0.0.0-20191009134036-9a97d0632f00 // indirect
 )
