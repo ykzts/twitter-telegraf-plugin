@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/ChimeraCoder/anaconda v2.0.0+incompatible
-	github.com/influxdata/telegraf v1.23.2
+	github.com/influxdata/telegraf v1.23.3
 	github.com/stretchr/testify v1.8.0
 )
 
