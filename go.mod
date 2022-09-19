@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/ChimeraCoder/anaconda v2.0.0+incompatible
-	github.com/influxdata/telegraf v1.24.0
+	github.com/influxdata/telegraf v1.24.1
 	github.com/stretchr/testify v1.8.0
 )
 
@@ -40,7 +40,7 @@ require (
 	github.com/prometheus/prometheus v1.8.2-0.20210430082741-2a4b8e12bbf2 // indirect
 	github.com/sleepinggenius2/gosmi v0.4.4 // indirect
 	github.com/tinylib/msgp v1.1.6 // indirect
-	github.com/wavefronthq/wavefront-sdk-go v0.10.2 // indirect
+	github.com/wavefronthq/wavefront-sdk-go v0.10.4 // indirect
 	golang.org/x/net v0.0.0-20220809184613-07c6da5e1ced // indirect
 	golang.org/x/sys v0.0.0-20220804214406-8e32c043e418 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
