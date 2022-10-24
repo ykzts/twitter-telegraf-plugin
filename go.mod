@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/ChimeraCoder/anaconda v2.0.0+incompatible
 	github.com/influxdata/telegraf v1.24.2
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 )
 
 require (
