@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/ChimeraCoder/anaconda v2.0.0+incompatible
-	github.com/influxdata/telegraf v1.24.2
+	github.com/influxdata/telegraf v1.24.3
 	github.com/stretchr/testify v1.8.1
 )
 
@@ -16,7 +16,6 @@ require (
 	github.com/azr/backoff v0.0.0-20160115115103-53511d3c7330 // indirect
 	github.com/benbjohnson/clock v1.3.0 // indirect
 	github.com/blues/jsonata-go v1.5.4 // indirect
-	github.com/caio/go-tdigest v3.1.0+incompatible // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dustin/go-jsonpointer v0.0.0-20160814072949-ba0abeacc3dc // indirect
@@ -35,14 +34,13 @@ require (
 	github.com/naoina/go-stringutil v0.1.0 // indirect
 	github.com/philhofer/fwd v1.1.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/prometheus/client_model v0.2.0 // indirect
+	github.com/prometheus/client_model v0.3.0 // indirect
 	github.com/prometheus/common v0.37.0 // indirect
 	github.com/prometheus/prometheus v1.8.2-0.20210430082741-2a4b8e12bbf2 // indirect
 	github.com/sleepinggenius2/gosmi v0.4.4 // indirect
 	github.com/tinylib/msgp v1.1.6 // indirect
-	github.com/wavefronthq/wavefront-sdk-go v0.10.4 // indirect
-	golang.org/x/net v0.0.0-20220909164309-bea034e7d591 // indirect
-	golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8 // indirect
+	golang.org/x/net v0.0.0-20221014081412-f15817d10f9b // indirect
+	golang.org/x/sys v0.0.0-20220928140112-f11e5e49a4ec // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
