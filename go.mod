@@ -4,15 +4,15 @@ go 1.19
 
 require (
 	github.com/ChimeraCoder/anaconda v2.0.0+incompatible
-	github.com/influxdata/telegraf v1.24.3
+	github.com/influxdata/telegraf v1.24.4
 	github.com/stretchr/testify v1.8.1
 )
 
 require (
-	github.com/BurntSushi/toml v1.2.0 // indirect
+	github.com/BurntSushi/toml v1.2.1 // indirect
 	github.com/ChimeraCoder/tokenbucket v0.0.0-20131201223612-c5a927568de7 // indirect
 	github.com/alecthomas/participle v0.4.1 // indirect
-	github.com/alecthomas/units v0.0.0-20210208195552-ff826a37aa15 // indirect
+	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137 // indirect
 	github.com/azr/backoff v0.0.0-20160115115103-53511d3c7330 // indirect
 	github.com/benbjohnson/clock v1.3.0 // indirect
 	github.com/blues/jsonata-go v1.5.4 // indirect
